@@ -1,0 +1,8 @@
+{
+  "name": "Diagnostic Live",
+  "description": "Advanced acoustic and visual engine diagnostic tool with AI-powered analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
